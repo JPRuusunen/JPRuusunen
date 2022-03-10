@@ -1,6 +1,6 @@
 - Name: JP Ruusunen
 - Company: Crafthouse Oy (Kassa.fi)
-- Title: System specialist / Junior developer
+- Title: System Specialist / Junior Developer
 - Areas: POS / ERP / Webshops
 
 <!---
